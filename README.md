@@ -55,7 +55,6 @@ infra/azure/create_arm_vm.sh myResourceGroup test-vm eastus adminuser ~/.ssh/azu
 infra/azure/install_petclinic.sh [EXTERNAL_IP] ~/.ssh/azure_key.pub azureuser
 ```
 
-## Presentation Assets
 This benchmark suite was developed for **Devoxx UK** to demonstrate:
 - ARM vs x86 price/performance ratios
 - JVM optimization techniques
